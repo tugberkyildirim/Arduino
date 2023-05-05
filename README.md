@@ -12,7 +12,6 @@
  • GND <br>
 
 How to add library in arduino 1.8.19 ide?<br>
-• Extract the  .rar  file<br>
 • Add the .zip file to the Arduino IDE 1.8.19<br>
    Sketch > Include Library > Add .ZIP library<br>
 
@@ -31,7 +30,6 @@ Arduino için 74HC595 pinleri<br>
 
 
 Arduino 1.8.19 IDE'de kütüphane nasıl eklenir<br>
-• .rar dosyasını ayıklayın.<br>
 • .zip dosyasını arduino IDE 1.8.19'a eklemek için <br>
    Taslak > library ekle > .ZIP kitaplığı ekle.<br>
 
