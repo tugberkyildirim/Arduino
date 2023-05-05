@@ -10,7 +10,6 @@
  • GND 
 
 How to add library in arduino 1.8.19 ide?
- • Extract the  .rar  file
  • Add the .zip file to the Arduino IDE 1.8.19
    Sketch > Include Library > Add .ZIP library
 
