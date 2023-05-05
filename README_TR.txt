@@ -10,7 +10,6 @@ Arduino için 74HC595 pinleri
  • GND 
 
 Arduino 1.8.19 IDE'de kütüphane nasıl eklenir
- • .rar dosyasını ayıklayın.
  • .zip dosyasını arduino IDE 1.8.19'a eklemek için 
    Taslak > library ekle > .ZIP kitaplığı ekle.
 
